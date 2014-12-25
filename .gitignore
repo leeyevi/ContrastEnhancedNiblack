@@ -1,0 +1,13 @@
+#Ignore Visual Studio IDE files 
+*.vcxproj
+*.filters
+*.user
+
+#Ignore image files.
+*.bmp
+*.jpg
+*.png
+
+#Ignore folders VS-10 creates
+Debug/*.*
+
